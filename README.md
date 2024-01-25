@@ -7,3 +7,8 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 Code examples that are simple and worked easily for me in Colab with little changes:
 - https://www.youtube.com/watch?v=kYRB-vJFy38&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=2
 - https://github.com/gkamradt/langchain-tutorials
+
+## TODO:
+
+- watch [cookbook for 7 essential concepts](https://www.youtube.com/watch?v=2xxziIWmaSA&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=3) + read [code samples for that](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
+- watch [cookbook for 9 use cases](https://www.youtube.com/watch?v=vGP4pQdCocw&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=4) + read [code samples for that](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb)
