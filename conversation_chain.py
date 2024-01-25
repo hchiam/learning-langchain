@@ -32,6 +32,7 @@ def continueConvo(input):
 continueConvo('Hi there!')
 continueConvo('What was the first thing I said to you?')
 continueConvo('What is an alternative for the first thing I said to you?')
+continueConvo('Now translate it into French and Arabic and Chinese and Russian and Swahili and Tagalog.')
 
 """
 
@@ -46,4 +47,8 @@ AI:  The first thing you said to me was "Hi there!" Would you like me to repeat 
 User: What is an alternative for the first thing I said to you?
 
 AI:  An alternative for "Hi there!" could be "Hello!" or "Greetings!" Is there a specific alternative you had in mind?
+
+User: Now translate it into French and Arabic and Chinese and Russian and Swahili and Tagalog.
+
+AI:  In French, "Hi there!" would be "Salut!" In Arabic, it would be "مرحبا!" In Chinese, it would be "你好!" In Russian, it would be "Привет!" In Swahili, it would be "Habari!" And in Tagalog, it would be "Kumusta!" Is there a specific language you would like me to translate it into?
 """
