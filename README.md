@@ -13,3 +13,4 @@ Code examples that are simple and worked easily for me in Colab with little chan
 - JS versions of the examples in this repo? https://js.langchain.com/docs/get_started/quickstart
 - watch [cookbook for 7 essential concepts](https://www.youtube.com/watch?v=2xxziIWmaSA&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=3) + read [code samples for that](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
 - watch [cookbook for 9 use cases](https://www.youtube.com/watch?v=vGP4pQdCocw&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=4) + read [code samples for that](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb)
+- run local RAG with Gemma 2: https://github.com/samwit/langchain-tutorials/tree/main/2024/gemma2_local_rag following this YouTube video: https://www.youtube.com/watch?v=daZOrbMs61I
